@@ -1,0 +1,8 @@
+{
+   "hosts":[
+      {
+         "id":"dh-demo",
+         "url":"https://dh-demo.chemaxon.com"
+      }
+   ]
+}
