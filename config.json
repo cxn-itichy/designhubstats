@@ -2,7 +2,7 @@
    "hosts":[
       {
          "id":"demo",
-         "url":"https://dh-demo.chemaxon.com"
+         "url":"https://dh-demo.chemaxon.com",
          "since": "2020-12-10"
       },
       {
