@@ -1,8 +1,36 @@
 {
    "hosts":[
       {
-         "id":"dh-demo",
+         "id":"demo",
          "url":"https://dh-demo.chemaxon.com"
+      },
+      {
+         "id":"alphademo",
+         "url":"https://dh-alphademo.chemaxon.com"
+      },
+      {
+         "id":"sprintbio",
+         "url":"https://designhub-sprintbio.cxn.io"
+      },
+      {
+         "id":"rochepoc",
+         "url":"https://designhub-rochepoc.chemaxon.com/"
+      },
+      {
+         "id":"sprintbio",
+         "url":"https://designhub-sprintbio.cxn.io"
+      },
+      {
+         "id":"ninesquaretx",
+         "url":"https://designhub-ninesquaretx.cxn.io"
+      },
+      {
+         "id":"initialtx",
+         "url":"https://designhub-initialtx.cxn.io"
+      },
+      {
+         "id":"nereidtx",
+         "url":"https://designhub-nereidtx.cxn.io"
       }
    ]
 }
